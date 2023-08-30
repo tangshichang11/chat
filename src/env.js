@@ -1,5 +1,5 @@
 export const env = {
   apiURL: 'https://api.openai.com/v1/chat/completions',
-  OPENAI_API_KEY: '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',
+  OPENAI_API_KEY: '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',
   proxy: {}
 }
